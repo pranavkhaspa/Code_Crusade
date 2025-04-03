@@ -1,0 +1,5 @@
+moviepy
+pillow
+ollama
+imageio[ffmpeg]
+numpy

@@ -1,0 +1,11 @@
+{
+    "question": "What is the output of this Python code snippet?",
+    "code": "def func(x):\\n    return x * x\\n\\nresult = [func(x) for x in range(10)]\\nprint(sum(result))",
+    "options": [
+        "A) 24",
+        "B) 36",
+        "C) 90",
+        "D) Error"
+    ],
+    "correct_answer": "A"
+}
